@@ -1,0 +1,150 @@
+@font-face {
+  font-family: EBGaramond;
+  src: url(fonts/EB/EBGaramond-Regular.ttf);
+}
+
+@font-face {
+  font-family: EBGaramond;
+  src: url(fonts/EB/EBGaramond-Italic.ttf);
+  font-style: italic;
+}
+
+@font-face {
+  font-family: EBGaramond;
+  src: url(fonts/EB/EBGaramond-Bold.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: EBGaramond;
+  src: url(fonts/EB/EBGaramond-BoldItalic.ttf);
+  font-style: italic;
+  font-weight: bold;
+}
+
+
+@font-face {
+  font-family: CormorantGaramond;
+  src: url(fonts/Cormorant/CormorantGaramond-Regular.ttf);
+}
+
+@font-face {
+  font-family: CormorantGaramond;
+  src: url(fonts/Cormorant/CormorantGaramond-Italic.ttf);
+  font-style: italic;
+}
+
+@font-face {
+  font-family: CormorantGaramond;
+  src: url(fonts/Cormorant/CormorantGaramond-Bold.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: CormorantGaramond;
+  src: url(fonts/Cormorant/CormorantGaramond-BoldItalic.ttf);
+  font-style: italic;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-family: CormorantGaramond;
+  font-weight: bold;
+  font-size: 36px;
+  text-align: center;
+}
+
+.tip {
+    font-family: CormorantGaramond;
+    font-size: 450%;
+    font-weight: bold;
+    margin: 0;
+    text-align: center;
+    padding-inline: 10%;
+    line-height: 76px;
+}
+
+.logo {
+    display: block;
+    width: 148px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 24px;
+    padding-top: 24px;
+}
+
+.ptipgroup {
+    border: 1px solid black;
+    max-width: 180px;
+    margin-inline: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-inline: 20px;
+    padding-bottom: 0%;
+    fill: rgb(190, 160, 123);
+}
+
+.pasttipgroup {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 0%;
+}
+
+.quiz {
+    border: 1px solid black;
+    min-width: 270px;
+    max-width: 270px;
+    min-height: 270px;
+    margin-inline: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-inline: 20px;
+    fill: rgb(190, 160, 123);
+}
+
+.ptip {
+    font-weight: bold
+}
+
+body {
+    background-color: rgb(255, 245, 230) ;
+    font-family: EBGaramond;
+}
+
+.date {
+    text-align: center;
+    padding-inline: 10%;
+    margin: 0;
+    font-size: 140%;
+    font-weight: bold;
+    padding-top: 12px;
+}
+
+.radio {
+  accent-color: green;
+}
+
+.submit {
+  background-color: green;
+  padding: 5px 10px;
+  color: white;
+  font-family: CormorantGaramond;
+  font-weight: bold;
+  font-size: medium;
+  border-radius: 100px;
+  text-decoration: none;
+  border: none;
+  margin-inline: auto;
+}
+
+.submit:hover {
+  background-color: darkgreen;
+}
+
+.submit:active {
+  background-color: rgb(0, 63, 0);
+}
+
+.center {
+  text-align: center;
+}
