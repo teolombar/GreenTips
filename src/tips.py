@@ -87,7 +87,7 @@ quizzes = [
         'correct': 2,
     },
     { #10
-        'Title': 'È meglio comprare una casa luminosa?.',
+        'Title': 'Compreresti una casa luminosa?.',
         'one': 'Sì.',
         'two': 'No.',
         'amount': 2,
@@ -111,7 +111,7 @@ quizzes = [
         'Title': 'Al mattino, è fai prima la colazione o apri le finestre?',
         'one': 'Fare colazione.',
         'two': 'Aprire le finestre.',
-        'amount': 2,
+        'amount': 2, 
         'correct': 2,
     },
     { #14
@@ -126,7 +126,7 @@ quizzes = [
         'one': 'Ventilatore.',
         'two': 'Condizionatore.',
         'amount': 2,
-        'correct': 2,
+        'correct': 1,
     },
     { #16
         'Title': 'Rispetti gli orari per buttare la spazzatura?',
