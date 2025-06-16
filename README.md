@@ -16,7 +16,7 @@ e alcuni pacchetti utili per Python sono stati:
 
 ## Ispirazioni
 Alcune parti del codice sono state create e messe a mente grazie ad alcune ispirazioni fondamentali.
-L'idea di manipolare i numeri della data per ottenere l'indice nella lista dei consigli è stata ispirata dal movimento casuale dei fantasmi in Pac-Man, che usa il tick del gioco per ottenere la direzione.ù
+L'idea di manipolare i numeri della data per ottenere l'indice nella lista dei consigli è stata ispirata dal movimento casuale dei fantasmi in Pac-Man, che usa il tick del gioco per ottenere la direzione.
 
 ## Ringraziamenti
 Ringrazio i creatori di Flask, Jinja, CSS, Python, Datetime e Rich per aver creato questi mezzi che hanno velocizzato il mio progetto, ringrazio Kodland per avermi dato le competenze per creare questo progetto e ringrazio mia madre per avermi aiutato a scrivere i consigli e i test.
